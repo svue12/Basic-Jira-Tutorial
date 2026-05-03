@@ -1,3 +1,7 @@
-# Basic Jira Tutorial
-<h1>This a basic Jira Tutorial</h1>
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+<h1>Basic Jira Tutorial</h1>
+
 
