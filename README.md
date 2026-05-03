@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Jira.png"/>
+  <img width="397" height="135" alt="Jira" src="https://github.com/user-attachments/assets/8e9b87d8-4723-436b-ba1c-64cf4dd83f4c" />
 </p>
 
 <h1>Basic IT Jira Tutorial</h1>
