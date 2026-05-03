@@ -78,7 +78,13 @@
 <p>You can find the Tickets or request in Multi-Work Space.</p>
 <img width="1273" height="505" alt="Screenshot 2026-05-03 155729" src="https://github.com/user-attachments/assets/69ebdfd6-db38-47ae-9a02-af929d05b467" />
 
+<p>Click on the Tickets and solve them. Find and click "Reply to customer" at the bottom and send text with customer to resolve issue.</p>
+<img width="961" height="530" alt="Screenshot 2026-05-03 160938" src="https://github.com/user-attachments/assets/43717677-e734-44d2-abee-4caa35839220" />
+<img width="939" height="526" alt="Screenshot 2026-05-03 161101" src="https://github.com/user-attachments/assets/f52a5747-5f75-4cb3-8f07-6fca24478eaf" />
+<img width="961" height="533" alt="Screenshot 2026-05-03 161319" src="https://github.com/user-attachments/assets/0d57e17a-865a-4f21-ad05-892c43f2ca8c" />
 
+<p>If the Ticket is not resolved leave it open.</p>
+<img width="1076" height="421" alt="Screenshot 2026-05-03 161359" src="https://github.com/user-attachments/assets/79d1456a-117d-4621-adb3-760af82b84aa" />
 
 <h2>Other Help Tips</h2>
 <p>Go to top left of the screen and click on the Setting button. Then click on billing. Go to the payments and make it all free service so you don't have to pay to use.</p>
