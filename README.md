@@ -37,4 +37,11 @@
 <p>Locate the Space on the taskbar at the left side of the screen. Click on the +(Plus Sign) next to Space</p>
 <img width="178" height="226" alt="Screenshot 2026-05-02 134357" src="https://github.com/user-attachments/assets/9892fae5-593f-4b38-bfcb-b37fd9e26cae" />
 
+<p>Click on Basic IT service management</p>
+<img width="1246" height="562" alt="Screenshot 2026-05-02 134513" src="https://github.com/user-attachments/assets/949f9d5e-e300-4d09-80d8-1f4dda46a1ca" />
+
+<p>Click on Use Template</p>
+<img width="712" height="598" alt="Screenshot 2026-05-02 134726" src="https://github.com/user-attachments/assets/e356a534-d915-4b19-b15f-21acc8ed6781" />
+
+
 
