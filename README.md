@@ -75,7 +75,20 @@
 <img width="754" height="589" alt="Screenshot 2026-05-03 154307" src="https://github.com/user-attachments/assets/98bde834-7d15-4bd3-8866-15d0902eab16" />
 <img width="782" height="587" alt="Screenshot 2026-05-03 154416" src="https://github.com/user-attachments/assets/0a5ecc1b-e7da-40a7-a67c-e58102394fc6" />
 
+<p>You can find the Tickets or request in Multi-Work Space.</p>
+<img width="1273" height="505" alt="Screenshot 2026-05-03 155729" src="https://github.com/user-attachments/assets/69ebdfd6-db38-47ae-9a02-af929d05b467" />
 
+
+
+<h2>Other Help Tips</h2>
+<p>Go to top left of the screen and click on the Setting button. Then click on billing. Go to the payments and make it all free service so you don't have to pay to use.</p>
+<img width="504" height="513" alt="Screenshot 2026-05-03 114450" src="https://github.com/user-attachments/assets/8e699cab-c8cb-48d2-a12e-9f560a9d66bd" />
+
+<p>click on Get Start and watch those videos</p>
+<img width="1066" height="608" alt="Screenshot 2026-05-03 160712" src="https://github.com/user-attachments/assets/a99c5bfe-cb8a-4ab9-ad15-f48e11d560b8" />
+
+<p>Top left click on the 4 dots. Then click on drop down arrow. You can click on and play around with Admin.</p>
+<img width="264" height="359" alt="Screenshot 2026-05-03 161937" src="https://github.com/user-attachments/assets/8c5f0c32-ca68-460e-8888-a6384527e964" />
 
 
 
