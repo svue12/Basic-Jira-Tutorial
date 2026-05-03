@@ -20,3 +20,5 @@
 <p><img width="611" height="400" alt="Screenshot 2026-05-01 144127" src="https://github.com/user-attachments/assets/ff1091b0-988c-4c51-bcff-c27a39086b8a" />
 </p>
 
+<p>Don't click on Support but if you do it is fine you can delete it later.</p>
+<img width="807" height="428" alt="Screenshot 2026-05-01 144347" src="https://github.com/user-attachments/assets/dc791c88-937e-45b9-89ac-6def7e414765" />
