@@ -58,6 +58,15 @@
 <p>Exist request types</p>
 <img width="585" height="443" alt="Screenshot 2026-05-02 140648" src="https://github.com/user-attachments/assets/846c1fbb-9470-44a5-b646-cdf5af4692f9" />
 
+<p>If you want to go back to request types. Go to Project you just created. Mine is Dune Customer Service.</p>
+<img width="327" height="257" alt="Screenshot 2026-05-02 140733" src="https://github.com/user-attachments/assets/85c41a1d-dac4-4059-9cda-cba45efb4ede" />
+
+<p>Go to Request management. Then Request Types. Click on Service requests. You can click on "Create request type" to add more request types.</p>
+<img width="1254" height="458" alt="Screenshot 2026-05-02 140911" src="https://github.com/user-attachments/assets/fcb3c13d-b2ea-4e3d-938b-57e234c920e4" />
+
+
+
+
 
 
 
