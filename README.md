@@ -55,6 +55,11 @@
 <p>Go to Customer Service and select "Return and exchanges" and "Suggest new feature". Add them to the Request Types</p>
 <img width="1050" height="520" alt="Screenshot 2026-05-02 140450" src="https://github.com/user-attachments/assets/d9a5b82d-b8c0-47b1-b5d2-aa3b5664a4fb" />
 
+<p>Exist request types</p>
+<img width="585" height="443" alt="Screenshot 2026-05-02 140648" src="https://github.com/user-attachments/assets/846c1fbb-9470-44a5-b646-cdf5af4692f9" />
+
+
+
 
 
 
