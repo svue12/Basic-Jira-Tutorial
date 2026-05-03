@@ -22,3 +22,9 @@
 
 <p>Don't click on Support but if you do it is fine you can delete it later.</p>
 <img width="807" height="428" alt="Screenshot 2026-05-01 144347" src="https://github.com/user-attachments/assets/dc791c88-937e-45b9-89ac-6def7e414765" />
+
+<p>Cick Finish</p>
+<img width="853" height="440" alt="Screenshot 2026-05-01 144524" src="https://github.com/user-attachments/assets/5fefb044-cebf-4d1a-a4e5-9479574b5218" />
+
+<p>Select and click on Scrum</p>
+<img width="672" height="349" alt="Screenshot 2026-05-01 144945" src="https://github.com/user-attachments/assets/7878cf6c-3cf8-42b8-b9f7-a90ccfabd9e8" />
