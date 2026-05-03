@@ -64,13 +64,16 @@
 <p>Go to Request management. Then Request Types. Click on Service requests. You can click on "Create request type" to add more request types.</p>
 <img width="1254" height="458" alt="Screenshot 2026-05-02 140911" src="https://github.com/user-attachments/assets/fcb3c13d-b2ea-4e3d-938b-57e234c920e4" />
 
+<h2>Understanding how and where Tickets are created.</h2>
 <p>Click on the Jira logo on the top left corner of the screen to go back to the main page. Go to Channel and click on it. Then click open Portal.</p>
 <img width="461" height="523" alt="Screenshot 2026-05-03 153027" src="https://github.com/user-attachments/assets/f02cb0c7-bc60-41f9-8073-801f80ef1774" />
 
 <p>This is were the customer, manager, coworker, you, or anyone can create a Ticket.</p>
 <img width="1002" height="589" alt="Screenshot 2026-05-03 153211" src="https://github.com/user-attachments/assets/4014b5f2-ae29-4244-bd9c-a164331d38cf" />
 
-
+<p>Create Two Request and send both request.</p>
+<img width="754" height="589" alt="Screenshot 2026-05-03 154307" src="https://github.com/user-attachments/assets/98bde834-7d15-4bd3-8866-15d0902eab16" />
+<img width="782" height="587" alt="Screenshot 2026-05-03 154416" src="https://github.com/user-attachments/assets/0a5ecc1b-e7da-40a7-a67c-e58102394fc6" />
 
 
 
