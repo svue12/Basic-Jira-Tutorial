@@ -4,7 +4,7 @@
 
 <h1>Basic Jira Tutorial</h1>
 <p>This is a basic Jira tutorial. First, go to google and type Jira</p></ br>
-
+![Alt Text](path/to/image.png)
 
 
 
